@@ -72,4 +72,4 @@ HELP_CMD_CHANNEL_ID=
 ```
 
 ## Credits
-* google-generativeai - [https://github.com/google/generative-ai-python](https://github.com/google/generative-ai-python)
+* google-generativeai - [https://github.com/google/generative-ai-python](https://github.com/google/generative-ai-python)# Z2ZGemini
